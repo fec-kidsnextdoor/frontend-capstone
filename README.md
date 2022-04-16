@@ -35,7 +35,7 @@ In this project, the team built a single page web application that reflects an e
 
 ### Contributors
 ---
-- [Hunter Motko](https://github.com/hunterMotko)
-- [Sean McNamara](https://github.com/seanmcnamara33)
-- [Tim Nguyen](https://github.com/timnguy17)
-- [Varun Srinivasan](https://github.com/varunsrinivasan2)
+[Hunter Motko](https://github.com/hunterMotko)
+[Sean McNamara](https://github.com/seanmcnamara33)
+[Tim Nguyen](https://github.com/timnguy17)
+[Varun Srinivasan](https://github.com/varunsrinivasan2)
