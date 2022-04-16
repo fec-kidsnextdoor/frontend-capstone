@@ -14,6 +14,16 @@ To run our application:
 ---
 In this project, the team built a single page web application that reflects an e-commerce shopping experience. The team was given an API that served imperfect data and handled it with frontend technologies to develop a dynamic user experience.
 
+### Widgets
+---
+#### Product Overview
+
+#### Related Products & Your Outfits
+
+#### Questions & Answers
+
+#### Ratings & Reviews
+
 ### Tech Stack
 ---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
