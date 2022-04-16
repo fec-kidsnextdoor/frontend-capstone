@@ -1,7 +1,7 @@
 # Project Atelier - An Online Shopping Experience
 
 add contents for each widget, gif/img of application, example.env
-### Setup
+## Setup
 ---
 To run our application:
 - Fork the repository and clone down to your local machine
@@ -10,11 +10,11 @@ To run our application:
 - Run `npm install` to install all project dependencies
 - Run `npm run client` and `npm run server`
 - In your browser, open the application with this link: [http://localhost:3333](http://localhost:3333)
-### Project Description
+## Project Description
 ---
 In this project, the team built a single page web application that reflects an e-commerce shopping experience. The team was given an API that served imperfect data and handled it with frontend technologies to develop a dynamic user experience.
 
-### Widgets
+## Widgets
 ---
 #### Product Overview
 
@@ -35,7 +35,7 @@ In this project, the team built a single page web application that reflects an e
 ### **Deployment**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Contributors
+## Contributors
 ---
 [Hunter Motko](https://github.com/hunterMotko)
 [Sean McNamara](https://github.com/seanmcnamara33)
