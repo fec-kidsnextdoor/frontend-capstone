@@ -37,7 +37,8 @@ In this project, the team built a single page web application that reflects an e
 
 ## Contributors
 ---
-[Hunter Motko](https://github.com/hunterMotko)
+Hunter Motko
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunterMotko)
 [Sean McNamara](https://github.com/seanmcnamara33)
 [Tim Nguyen](https://github.com/timnguy17)
 [Varun Srinivasan](https://github.com/varunsrinivasan2)
