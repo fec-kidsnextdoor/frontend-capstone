@@ -33,16 +33,13 @@ In this project, the team built a single page web application that reflects an e
 
 ## Contributors
 ---
-### **Hunter Motko**
-
+### Hunter Motko
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunterMotko)
 
-### **Sean McNamara** 
-
+### Sean McNamara
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seanmcnamara33)
 
 ### **Tim Nguyen**
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timnguy17)
 
 ### **Varun Srinivasan**
