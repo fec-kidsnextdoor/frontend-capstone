@@ -2,7 +2,6 @@
 
 add contents for each widget, gif/img of application, example.env
 ## Setup
----
 To run our application:
 - Fork the repository and clone down to your local machine
 - Navigate to the root directory in your CLI: *frontend-capstone*
@@ -11,11 +10,9 @@ To run our application:
 - Run `npm run client` and `npm run server`
 - In your browser, open the application with this link: [http://localhost:3333](http://localhost:3333)
 ## Project Description
----
 In this project, the team built a single page web application that reflects an e-commerce shopping experience. The team was given an API that served imperfect data and handled it with frontend technologies to develop a dynamic user experience.
 
 ## Widgets
----
 #### Product Overview
 
 #### Related Products & Your Outfits
@@ -24,8 +21,7 @@ In this project, the team built a single page web application that reflects an e
 
 #### Ratings & Reviews
 
-### Tech Stack
----
+## Tech Stack
 ### **Frontend**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ### **Testing**
@@ -41,6 +37,13 @@ In this project, the team built a single page web application that reflects an e
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunterMotko)
 
-[Sean McNamara](https://github.com/seanmcnamara33)
-[Tim Nguyen](https://github.com/timnguy17)
-[Varun Srinivasan](https://github.com/varunsrinivasan2)
+### **Sean McNamara** 
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seanmcnamara33)
+
+### **Tim Nguyen**
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timnguy17)
+
+### **Varun Srinivasan**
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsrinivasan2)
