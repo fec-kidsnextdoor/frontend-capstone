@@ -1,4 +1,4 @@
-# Project Atelier - An Online Shopping Experience
+# hstv.shop - An Online Shopping Experience
 
 add contents for each widget, gif/img of application, example.env
 ## Setup
